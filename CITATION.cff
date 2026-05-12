@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this VLM-as-judge evidence package, please cite the archived software release and the associated paper."
+title: "ViNL2Vis VLM Judge: Code and Evidence for Chart-Faithfulness Judging"
+type: software
+authors:
+  - family-names: Luong
+    given-names: Thi Minh-Hue
+    affiliation: "Thai Nguyen University of Information and Communication Technology"
+  - family-names: Nguyen
+    given-names: The-Vinh
+    affiliation: "Thai Nguyen University of Information and Communication Technology"
+  - family-names: Nguyen
+    given-names: Van-Viet
+    affiliation: "Thai Nguyen University of Information and Communication Technology"
+  - family-names: Vu
+    given-names: Duc-Quang
+    affiliation: "Thai Nguyen University of Information and Communication Technology"
+  - family-names: Phung
+    given-names: Trung-Nghia
+    affiliation: "Thai Nguyen University of Information and Communication Technology"
+repository-code: "https://github.com/ictu-se/vinl2vis-vlm-judge-code"
+url: "https://github.com/ictu-se/vinl2vis-vlm-judge-code"
+date-released: "2026-05-12"
+license: MIT
+keywords:
+  - natural-language-to-visualization
+  - vision-language models
+  - chart evaluation
+  - VLM-as-judge
+  - data visualization
+  - faithfulness audit
+  - Vietnamese

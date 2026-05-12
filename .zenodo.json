@@ -1,0 +1,50 @@
+{
+  "title": "ViNL2Vis VLM Judge: Code and Evidence for Chart-Faithfulness Judging",
+  "upload_type": "software",
+  "description": "Code, calibration slices, model-label files, stress-screening summaries, generated figures, and manuscript artifacts for evaluating vision-language models as chart-faithfulness judges for natural-language-to-visualization.",
+  "creators": [
+    {
+      "name": "Luong, Thi Minh-Hue",
+      "affiliation": "Thai Nguyen University of Information and Communication Technology"
+    },
+    {
+      "name": "Nguyen, The-Vinh",
+      "affiliation": "Thai Nguyen University of Information and Communication Technology"
+    },
+    {
+      "name": "Nguyen, Van-Viet",
+      "affiliation": "Thai Nguyen University of Information and Communication Technology"
+    },
+    {
+      "name": "Vu, Duc-Quang",
+      "affiliation": "Thai Nguyen University of Information and Communication Technology"
+    },
+    {
+      "name": "Phung, Trung-Nghia",
+      "affiliation": "Thai Nguyen University of Information and Communication Technology"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit-license",
+  "keywords": [
+    "natural-language-to-visualization",
+    "vision-language models",
+    "chart evaluation",
+    "VLM-as-judge",
+    "data visualization",
+    "faithfulness audit",
+    "Vietnamese"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://huggingface.co/datasets/vinhnt/vinl2vis-faithbench",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/ictu-se/vinl2vis-faithbench",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}

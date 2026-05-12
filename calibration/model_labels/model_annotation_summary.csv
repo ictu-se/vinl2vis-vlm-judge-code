@@ -1,0 +1,11 @@
+model,n,overall_yes,overall_no,overall_unclear,yes_pct,no_pct,unclear_pct,top_errors,confidence
+bakllava_latest,15,10,0,5,66.667,0.0,33.333,unclear:15,high:11; unknown:3; low:1
+gemini_gemini_2_5_flash,26,21,5,0,80.769,19.231,0.0,none:21; unreadable:3; wrong_fields:1; wrong_chart_type:1,high:26
+granite3_2_vision_latest,240,212,0,28,88.333,0.0,11.667,none:240,high:197; low:31; unknown:12
+llama3_2_vision_11b,32,30,0,2,93.75,0.0,6.25,none:30; unclear:2,high:30; low:2
+llava:7b,240,1,110,129,0.417,45.833,53.75,wrong_chart_type:110; unclear:71; wrong_fields:57; none:2,low:227; medium:12; high:1
+llava_llama3_8b,80,79,1,0,98.75,1.25,0.0,empty_or_broken:67; none:12; unclear:1,high:43; unknown:36; low:1
+minicpm-v,240,229,10,1,95.417,4.167,0.417,none:228; missing_transform:5; missing_labels:5; unclear:1; empty_or_broken:1,high:193; medium:37; low:10
+openai_gpt_4o,240,168,72,0,70.0,30.0,0.0,none:168; unreadable:35; wrong_fields:33; missing_labels:2; wrong_chart_type:2,high:240
+qwen2.5vl:3b,240,238,1,1,99.167,0.417,0.417,none:238; missing_labels:1; wrong_chart_type:1,high:165; medium:75
+qwen3-vl:4b,240,206,34,0,85.833,14.167,0.0,none:206; wrong_chart_type:15; empty_or_broken:13; wrong_fields:4; unclear:2,high:240

@@ -1,0 +1,7 @@
+source_bucket,n
+cross_judge_disagreement,13
+deterministic_failure,40
+primary_vlm_flagged,40
+supplemental_vlm_consensus_accepted,27
+vlm_consensus_accepted,80
+weak_judge_only_flag,40

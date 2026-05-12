@@ -1,0 +1,6 @@
+case_family,n
+cross_or_weak_judge_disagreement,22
+major_visual_sanity_failure,70
+primary_vlm_flagged,60
+repair_confirmed_known_bad,8
+strict_transform_failure,70

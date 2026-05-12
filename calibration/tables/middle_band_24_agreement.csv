@@ -1,0 +1,11 @@
+model_pair,n,overall_kappa,chart_family_kappa,label_kappa,field_kappa
+qwen3-vl:4b vs qwen3-vl:8b,24,0.0,0.333,0.051,0.185
+qwen3-vl:4b vs qwen2.5vl:3b,24,-0.037,0.0,-0.021,0.0
+qwen3-vl:4b vs gemma3:4b,24,0.143,0.0,-0.051,-0.067
+qwen3-vl:4b vs granite3.2,24,-0.128,0.0,0.115,0.167
+qwen3-vl:4b vs minicpm-v,24,0.067,0.0,-0.08,-0.111
+qwen3-vl:4b vs llama3.2-vision,24,0.152,0.111,-0.062,0.184
+qwen3-vl:4b vs llava-llama3,24,0.0,0.0,0.029,0.0
+qwen3-vl:4b vs llava:7b,24,0.034,0.0,0.135,-0.083
+qwen3-vl:4b vs bakllava,24,-0.048,0.0,0.002,-0.038
+qwen3-vl:4b vs deepseek-ocr,24,-0.032,-0.032,0.002,0.005

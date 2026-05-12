@@ -1,0 +1,172 @@
+case_id,sample_id,image_file,source_bucket,query_type,language,expected_chart_family,query,human_visible_chart_family,human_chart_family_acceptable,human_labels_readable,human_relevant_fields_visible,human_transform_preserved,human_overall_acceptable,human_primary_error,human_confidence,human_notes
+calib_001,vinl2vis_30351,calib_001__vinl2vis_30351.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows the comparison of countries.
+calib_002,vinl2vis_29110,calib_002__vinl2vis_29110.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,The chart shows a line graph with multiple lines representing different countries.
+calib_003,vinl2vis_05436,calib_003__vinl2vis_05436.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số livestock production index (2014-2016 = 100) mẫu 15.,line,yes,yes,yes,yes,yes,none,high,The chart is a line chart showing the livestock production index for various countries over time.
+calib_004,vinl2vis_29510,calib_004__vinl2vis_29510.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,The chart shows a line graph of the data by country.
+calib_005,vinl2vis_23602,calib_005__vinl2vis_23602.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số portfolio investment, net (bop, current us$) ở các quốc gia, biến thể 21.",bar,yes,yes,yes,yes,yes,none,high,"The chart shows the net portfolio investment, net (BOP, current US$) for various countries."
+calib_006,vinl2vis_25082,calib_006__vinl2vis_25082.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số net bilateral aid flows from dac donors, switzerland (current us$) ở các quốc gia, biến thể 21.",bar,yes,yes,yes,yes,yes,none,high,"The chart shows the net bilateral aid flows from DAC donors, Switzerland (current US$) for various countries."
+calib_007,vinl2vis_26311,calib_007__vinl2vis_26311.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,The chart shows a bar chart comparing the values of different countries.
+calib_008,vinl2vis_30310,calib_008__vinl2vis_30310.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,The chart shows a line graph with country-specific data.
+calib_009,vinl2vis_28750,calib_009__vinl2vis_28750.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,Chart shows trends by country.
+calib_010,vinl2vis_28871,calib_010__vinl2vis_28871.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows the comparison of countries.
+calib_011,vinl2vis_05196,calib_011__vinl2vis_05196.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số forest area (% of land area) mẫu 15.,line,yes,yes,yes,yes,yes,none,high,The chart is a line chart showing the forest area percentage over time.
+calib_012,vinl2vis_23557,calib_012__vinl2vis_23557.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số foreign direct investment, net (bop, current us$) ở các quốc gia, biến thể 16.",bar,yes,yes,yes,yes,yes,none,high,The chart shows the net foreign direct investment in various countries.
+calib_013,vinl2vis_05396,calib_013__vinl2vis_05396.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số food production index (2014-2016 = 100) mẫu 15.,line,yes,yes,yes,yes,yes,none,high,The chart is a line chart showing the food production index for various countries over time.
+calib_014,vinl2vis_29596,calib_014__vinl2vis_29596.png,vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số external debt stocks, total (dod, current us$) mẫu 15.",line,yes,yes,yes,yes,yes,none,high,The chart is a line chart showing the external debt stocks of various countries over time.
+calib_015,vinl2vis_27110,calib_015__vinl2vis_27110.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,The line chart shows the trend of the data by country.
+calib_016,vinl2vis_24482,calib_016__vinl2vis_24482.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số personal transfers, receipts (bop, current us$) ở các quốc gia, biến thể 21.",bar,yes,yes,yes,yes,yes,none,high,"The bar chart shows personal transfers, receipts (bop, current us$) for various countries."
+calib_017,vinl2vis_26951,calib_017__vinl2vis_26951.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows the comparison of countries.
+calib_018,vinl2vis_26711,calib_018__vinl2vis_26711.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows the values for each country in the year 2020.
+calib_019,vinl2vis_24117,calib_019__vinl2vis_24117.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số service exports (bop, current us$) ở các quốc gia, biến thể 16.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows service exports for various countries.
+calib_020,vinl2vis_05317,calib_020__vinl2vis_05317.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số cereal production (metric tons) ở các quốc gia, biến thể 16.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows the cereal production in metric tons for various countries.
+calib_021,vinl2vis_27191,calib_021__vinl2vis_27191.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows the comparison of countries.
+calib_022,vinl2vis_32864,calib_022__vinl2vis_32864.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số level of water stress: freshwater withdrawal as a proportion of available freshwater resources.,bar,yes,yes,yes,yes,yes,none,high,"The chart shows the level of water stress for each country, with countries having higher values having more water stress."
+calib_023,vinl2vis_29511,calib_023__vinl2vis_29511.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,The bar chart shows the comparison of countries.
+calib_024,vinl2vis_32784,calib_024__vinl2vis_32784.png,vlm_consensus_accepted,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số annual freshwater withdrawals, domestic (% of total freshwater withdrawal).",bar,yes,yes,yes,yes,yes,none,high,"The chart shows the top 10 countries by annual freshwater withdrawals, domestic, as a percentage of total freshwater withdrawal."
+calib_025,vinl2vis_28791,calib_025__vinl2vis_28791.png,vlm_consensus_accepted,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,yes,yes,yes,yes,yes,none,high,Bar chart with country names on x-axis and values on y-axis.
+calib_026,vinl2vis_05116,calib_026__vinl2vis_05116.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số tree cover loss (hectares) mẫu 15.,line,yes,yes,yes,yes,yes,none,high,Bioungquy
+calib_027,vinl2vis_29070,calib_027__vinl2vis_29070.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,low,timed out
+calib_028,vinl2vis_30664,calib_028__vinl2vis_30664.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số carbon dioxide (co2) emissions from fugitive emissions (energy) (mt co2e).,unknown,unclear,unclear,unclear,unclear,unclear,unclear,low,timed out
+calib_029,vinl2vis_31664,calib_029__vinl2vis_31664.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số nitrous oxide (n2o) emissions from waste (mt co2e).,bar,yes,yes,yes,yes,yes,none,high,"The chart shows the N2O emissions from waste for various countries, with the countries listed on the x-axis and the N2O emissions on the y-axis."
+calib_030,vinl2vis_32584,calib_030__vinl2vis_32584.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số aquaculture production (metric tons).,bar,yes,yes,yes,yes,yes,none,high,The chart shows the top 10 countries by aquaculture production in metric tons.
+calib_031,vinl2vis_25922,calib_031__vinl2vis_25922.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số external debt stocks (% of gni) ở các quốc gia, biến thể 21.",bar,yes,yes,yes,yes,yes,none,high,The chart shows external debt stocks as a percentage of GNI for various countries.
+calib_032,vinl2vis_05201,calib_032__vinl2vis_05201.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số forest area (% of land area) mẫu 20.,line,yes,yes,yes,yes,yes,none,high,Biounguounguou
+calib_034,vinl2vis_30464,calib_034__vinl2vis_30464.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số methane (ch4) emissions from transport (energy) (mt co2e).,bar,yes,yes,yes,yes,yes,none,high,The chart shows the methane emissions from transport (energy) (mt co2e) of various countries.
+calib_035,vinl2vis_31984,calib_035__vinl2vis_31984.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số population in urban agglomerations of more than 1 million.,bar,yes,yes,yes,not_applicable,yes,none,high,The chart shows the population in urban agglomerations of more than 1 million for various countries.
+calib_036,vinl2vis_25201,calib_036__vinl2vis_25201.png,vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, denmark (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,"The chart shows the net bilateral aid flows from DAC donors, Denmark (current US$) for 20 countries."
+calib_047,vinl2vis_28710,calib_047__vinl2vis_28710.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,Xu hướng theo quốc gia.
+calib_049,vinl2vis_27790,calib_049__vinl2vis_27790.png,vlm_consensus_accepted,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,Xu hướng theo quốc gia.
+calib_050,vinl2vis_33024,calib_050__vinl2vis_33024.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số renewable internal freshwater resources per capita (cubic meters).,bar,yes,yes,yes,yes,yes,none,high,The chart shows the ranking of countries by their renewable internal freshwater resources per capita.
+calib_051,vinl2vis_32944,calib_051__vinl2vis_32944.png,vlm_consensus_accepted,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số annual freshwater withdrawals, total (% of internal resources).",bar,yes,yes,yes,yes,yes,none,high,"The chart shows the ranking of countries by annual freshwater withdrawals, total (% of internal resources)."
+calib_053,vinl2vis_22997,calib_053__vinl2vis_22997.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số imports of goods, services and primary income (bop, current us$) ở các quốc gia, biến thể 16.",bar,yes,yes,yes,yes,yes,none,high,Chart shows BOP data for 16 countries.
+calib_055,vinl2vis_23962,calib_055__vinl2vis_23962.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số primary income receipts (bop, current us$) ở các quốc gia, biến thể 21.",bar,yes,yes,yes,yes,yes,none,high,"Chart shows primary income receipts (bop, current us$) of various countries."
+calib_060,vinl2vis_24676,calib_060__vinl2vis_24676.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số market capitalization of listed domestic companies (% of gdp) mẫu 15.,line,yes,yes,yes,yes,yes,none,high,The chart is a line chart with market capitalization of listed domestic companies as a percentage of GDP.
+calib_062,vinl2vis_25161,calib_062__vinl2vis_25161.png,vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, germany (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,The chart is a line chart with the correct fields and labels.
+calib_063,vinl2vis_23042,calib_063__vinl2vis_23042.png,vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số transport services (% of service imports, bop) ở các quốc gia, biến thể 21.",bar,yes,yes,yes,yes,yes,none,high,"The chart shows the transport services (% of service imports, bop) for various countries."
+calib_065,vinl2vis_04801,calib_065__vinl2vis_04801.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số fertilizer consumption (kilograms per hectare of arable land) mẫu 20.,line,yes,yes,yes,yes,yes,none,high,The chart shows a line plot of fertilizer consumption per hectare of arable land for various countries.
+calib_066,vinl2vis_22961,calib_066__vinl2vis_22961.png,vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số charges for the use of intellectual property, payments (bop, current us$) mẫu 20.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,low,timed out
+calib_068,vinl2vis_05521,calib_068__vinl2vis_05521.png,vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số cereal yield (kg per hectare) mẫu 20.,line,yes,yes,yes,yes,yes,none,high,Biounguoungi
+calib_070,vinl2vis_31824,calib_070__vinl2vis_31824.png,vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số population density (people per sq. km of land area).,unknown,unclear,unclear,unclear,unclear,unclear,unclear,unknown,"{
+  ""human_visible_chart_family"": ""bar"",
+  ""human_chart_family_acceptable"": ""yes"",
+  ""human_labels_readable"": ""yes"",
+  ""human_relevant_fields_visible"": ""yes"",
+  ""human_transform_preserved"": ""yes"",
+  ""human_overall_acceptable"": ""yes"",
+  ""human_primary_error"": ""none"",
+  ""human_confidence"": ""high"",
+  """
+calib_078,vinl2vis_25481,calib_078__vinl2vis_25481.png,vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, italy (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Bioungiouk
+calib_081,vinl2vis_27344,calib_081__vinl2vis_27344.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số net official flows from un agencies, undp (current us$).",bar,yes,no,no,not_applicable,no,wrong_fields,low,"The chart does not show the net official flows from un agencies, undp (current us$) for each country."
+calib_083,vinl2vis_03712,calib_083__vinl2vis_03712.png,primary_vlm_flagged,explicit,vi,bar,So sánh phát thải co2 bình quân đầu người của việt nam giữa các nước trong năm 2024.,bar,yes,no,no,not_applicable,no,wrong_fields,low,"The chart does not show any data, only a legend."
+calib_084,vinl2vis_04056,calib_084__vinl2vis_04056.png,primary_vlm_flagged,explicit,en,tick_plot,Create a tick plot for Tuổi thọ kỳ vọng in 2023.,line,yes,yes,yes,yes,yes,none,high,The chart shows life expectancy for Indonesia and Malaysia in 2023.
+calib_085,vinl2vis_04144,calib_085__vinl2vis_04144.png,primary_vlm_flagged,explicit,en,heatmap,Create a heatmap of Tỷ lệ thất nghiệp by country and year.,unknown,unclear,unclear,unclear,unclear,unclear,unclear,low,timed out
+calib_086,vinl2vis_00766,calib_086__vinl2vis_00766.png,primary_vlm_flagged,explicit,en,tick_plot,Create a tick plot for asean exports share of gdp in 2024.,line,yes,yes,yes,yes,yes,none,high,The chart shows the ASEAN exports share of GDP in 2024.
+calib_087,vinl2vis_24504,calib_087__vinl2vis_24504.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số personal remittances, received (current us$).",bar,yes,no,no,not_applicable,no,wrong_fields,low,The chart is empty and does not show any data.
+calib_088,vinl2vis_22704,calib_088__vinl2vis_22704.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số communications, computer, etc. (% of service imports, bop).",bar,yes,no,no,not_applicable,no,wrong_fields,low,"The chart does not show the countries' rankings for communications, computer, etc. (% of service imports, bop) as requested."
+calib_089,vinl2vis_01764,calib_089__vinl2vis_01764.png,primary_vlm_flagged,explicit,en,bar,Rank countries by asean education expenditure share of gdp in the latest year.,bar,yes,no,no,not_applicable,no,wrong_fields,low,"The chart does not show the education expenditure share of GDP for each country, which is the requested data."
+calib_090,vinl2vis_01762,calib_090__vinl2vis_01762.png,primary_vlm_flagged,explicit,en,bar,Compare countries by asean education expenditure share of gdp in 2025.,bar,yes,no,no,not_applicable,no,wrong_fields,low,The chart is empty and does not provide any data for comparison.
+calib_091,vinl2vis_23904,calib_091__vinl2vis_23904.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số communications, computer, etc. (% of service exports, bop).",bar,yes,no,no,not_applicable,no,wrong_fields,low,The chart does not show the countries' rankings or any relevant data.
+calib_092,vinl2vis_22824,calib_092__vinl2vis_22824.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số insurance and financial services (% of service imports, bop).",bar,yes,no,no,not_applicable,no,wrong_fields,low,"The chart does not show the countries' insurance and financial services as a percentage of service imports, BOP."
+calib_093,vinl2vis_01466,calib_093__vinl2vis_01466.png,primary_vlm_flagged,explicit,en,tick_plot,Create a tick plot for asean health expenditure share of gdp in 2023.,line,yes,yes,yes,yes,yes,none,high,"The chart shows the ASEAN health expenditure share of GDP in 2023, with each country's data represented by a line."
+calib_094,vinl2vis_23944,calib_094__vinl2vis_23944.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số primary income receipts (bop, current us$).",bar,yes,no,no,not_applicable,no,wrong_fields,low,The chart is empty and does not provide any data for primary income receipts.
+calib_095,vinl2vis_23104,calib_095__vinl2vis_23104.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số foreign direct investment, net outflows (bop, current us$).",bar,yes,no,no,not_applicable,no,wrong_fields,low,"The chart does not show the countries' net outflow of foreign direct investment, which is what the query asks for."
+calib_097,vinl2vis_24104,calib_097__vinl2vis_24104.png,primary_vlm_flagged,underspecified,vi,bar,"Xếp hạng các nước theo chỉ số service exports (bop, current us$).",bar,yes,no,no,not_applicable,no,wrong_fields,low,The chart is empty and does not provide any data for service exports.
+calib_098,vinl2vis_03426,calib_098__vinl2vis_03426.png,primary_vlm_flagged,explicit,en,tick_plot,Create a tick plot for asean domestic credit to private sector in 2024.,line,yes,yes,yes,yes,yes,none,high,The chart shows the ASEAN domestic credit to private sector in 2024.
+calib_099,vinl2vis_03644,calib_099__vinl2vis_03644.png,primary_vlm_flagged,explicit,vi,bar,Xếp hạng các nước theo tuổi thọ kỳ vọng của việt nam trong năm 2023.,bar,yes,no,no,not_applicable,no,wrong_fields,low,The chart does not show any data for Vietnam's expected life expectancy in 2023.
+calib_122,vinl2vis_28950,calib_122__vinl2vis_28950.png,cross_judge_disagreement,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,The chart shows a line plot of data for each country over time.
+calib_123,vinl2vis_25921,calib_123__vinl2vis_25921.png,cross_judge_disagreement,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số external debt stocks (% of gni) mẫu 20.,line,yes,yes,yes,yes,yes,none,high,Biounguoungiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienlaiiokhienla
+calib_124,vinl2vis_29351,calib_124__vinl2vis_29351.png,cross_judge_disagreement,multi_turn,vi,bar,"Hãy so sánh các nước.
+Dùng năm mới nhất.",bar,no,no,no,not_applicable,no,empty_or_broken,low,The chart is empty and does not provide any data for comparison.
+calib_126,vinl2vis_24921,calib_126__vinl2vis_24921.png,cross_judge_disagreement,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, austria (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Bioungsichl. 
+calib_127,vinl2vis_31704,calib_127__vinl2vis_31704.png,cross_judge_disagreement,underspecified,vi,bar,Xếp hạng các nước theo chỉ số nitrous oxide (n2o) emissions (total) excluding lulucf (% change from 1990).,bar,yes,yes,yes,yes,yes,none,high,The chart shows the top 10 countries by n2o emissions (total) excluding lufucf ( % change from 1990) in a bar chart.
+calib_129,vinl2vis_25001,calib_129__vinl2vis_25001.png,cross_judge_disagreement,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, canada (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Biounguoungi
+calib_130,vinl2vis_32864,calib_130__vinl2vis_32864.png,cross_judge_disagreement,underspecified,vi,bar,Xếp hạng các nước theo chỉ số level of water stress: freshwater withdrawal as a proportion of available freshwater resources.,bar,yes,yes,yes,yes,yes,none,high,The chart shows the level of water stress: freshwater withdrawal as a proportion of available freshwater resources for each country.
+calib_131,vinl2vis_24801,calib_131__vinl2vis_24801.png,cross_judge_disagreement,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số stocks traded, total value (% of gdp) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Biounguoungi
+calib_136,vinl2vis_31584,calib_136__vinl2vis_31584.png,deterministic_failure,underspecified,,bar,,bar,yes,yes,yes,yes,yes,none,high,The chart is a bar chart with country names on the x-axis and N2O emissions on the y-axis.
+calib_142,vinl2vis_22881,calib_142__vinl2vis_22881.png,deterministic_failure,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số goods imports (bop, current us$) mẫu 20.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,low,timed out
+calib_144,vinl2vis_25161,calib_144__vinl2vis_25161.png,deterministic_failure,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, germany (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Bioungiouk
+calib_147,vinl2vis_04125,calib_147__vinl2vis_04125.png,deterministic_failure,explicit,en,bubble_chart,"Create a bubble chart using Tỷ lệ nhập học tiểu học, Tỷ lệ nhập học trung học, and Tỷ lệ nhập học đại học.",bubble_chart,yes,no,no,not_applicable,no,wrong_fields,low,"The chart is a scatter plot, not a bubble chart. The x and y axes are not clearly labeled, and the data points are not clearly related to the requested fields."
+calib_167,vinl2vis_31704,calib_167__vinl2vis_31704.png,deterministic_failure,underspecified,vi,bar,Xếp hạng các nước theo chỉ số nitrous oxide (n2o) emissions (total) excluding lulucf (% change from 1990).,bar,yes,yes,yes,yes,yes,none,high,The chart shows the top 10 countries by n2o emissions (total) excluding lufucf ( % change from 1990) in a bar chart.
+calib_171,vinl2vis_22916,calib_171__vinl2vis_22916.png,deterministic_failure,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số service imports (bop, current us$) mẫu 15.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,unknown,"{
+  ""human_visible_chart_family"": ""line"",
+  ""human_chart_family_acceptable"": ""yes"",
+  ""human_labels_readable"": ""yes"",
+  ""human_relevant_fields_visible"": ""yes"",
+  ""human_transform_preserved"": ""yes"",
+  ""human_overall_acceptable"": ""yes"",
+  ""human_primary_error"": ""none"",
+  ""human_confidence"": ""high"",
+  "
+calib_175,vinl2vis_05241,calib_175__vinl2vis_05241.png,weak_judge_only_flag,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số average precipitation in depth (mm per year) mẫu 20.,line,yes,yes,yes,yes,yes,none,high,Biounguoungi
+calib_176,vinl2vis_26510,calib_176__vinl2vis_26510.png,weak_judge_only_flag,multi_turn,vi,line,"Tôi muốn xem xu hướng.
+Dùng dữ liệu này và tách theo quốc gia.",line,yes,yes,yes,yes,yes,none,high,Xu thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi thi t
+calib_177,vinl2vis_05521,calib_177__vinl2vis_05521.png,weak_judge_only_flag,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số cereal yield (kg per hectare) mẫu 20.,line,yes,yes,yes,yes,yes,none,high,Biounguoungi
+calib_179,vinl2vis_25361,calib_179__vinl2vis_25361.png,weak_judge_only_flag,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, united kingdom (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Bioungiouk: Tất cả các dữ liệu đều có thể được sử dụng.
+calib_185,vinl2vis_22921,calib_185__vinl2vis_22921.png,weak_judge_only_flag,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số service imports (bop, current us$) mẫu 20.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,unknown,"{
+  ""human_visible_chart_family"": ""line"",
+  ""human_chart_family_acceptable"": ""yes"",
+  ""human_labels_readable"": ""yes"",
+  ""human_relevant_fields_visible"": ""yes"",
+  ""human_transform_preserved"": ""yes"",
+  ""human_overall_acceptable"": ""yes"",
+  ""human_primary_error"": ""none"",
+  ""human_confidence"": ""high"",
+  "
+calib_186,vinl2vis_24157,calib_186__vinl2vis_24157.png,weak_judge_only_flag,explicit,vi,bar,"So sánh chỉ số charges for the use of intellectual property, receipts (bop, current us$) ở các quốc gia, biến thể 16.",bar,yes,yes,yes,yes,yes,none,high,Bán chánh choi nhiu
+calib_195,vinl2vis_24637,calib_195__vinl2vis_24637.png,weak_judge_only_flag,explicit,vi,bar,"So sánh chỉ số market capitalization of listed domestic companies (current us$) ở các quốc gia, biến thể 16.",bar,yes,yes,yes,yes,yes,none,high,The chart effectively compares the market capitalization of listed domestic companies in various countries.
+calib_198,vinl2vis_25321,calib_198__vinl2vis_25321.png,weak_judge_only_flag,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, france (current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Bioungioukiennetienduokhienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhkienmucdinhki
+calib_200,vinl2vis_23602,calib_200__vinl2vis_23602.png,weak_judge_only_flag,explicit,vi,bar,"So sánh chỉ số portfolio investment, net (bop, current us$) ở các quốc gia, biến thể 21.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,unknown,"{
+  ""human_visible_chart_family"": ""bar"",
+  ""human_chart_family_acceptable"": ""yes"",
+  ""human_labels_readable"": ""yes"",
+  ""human_relevant_fields_visible"": ""yes"",
+  ""human_transform_preserved"": ""yes"",
+  ""human_overall_acceptable"": ""yes"",
+  ""human_primary_error"": ""none"",
+  ""human_confidence"": ""high"",
+  """
+calib_204,vinl2vis_25082,calib_204__vinl2vis_25082.png,weak_judge_only_flag,explicit,vi,bar,"So sánh chỉ số net bilateral aid flows from dac donors, switzerland (current us$) ở các quốc gia, biến thể 21.",bar,yes,yes,yes,yes,yes,none,high,"The chart is a bar chart with clear labels and relevant fields, and it preserves the expected transformation."
+calib_215,vinl2vis_23001,calib_215__vinl2vis_23001.png,supplemental_vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số imports of goods, services and primary income (bop, current us$) mẫu 20.",line,yes,yes,yes,yes,yes,none,high,Bioungsichlai
+calib_217,vinl2vis_04796,calib_217__vinl2vis_04796.png,supplemental_vlm_consensus_accepted,ambiguous,vi,line,Tạo biểu đồ phù hợp cho chỉ số fertilizer consumption (kilograms per hectare of arable land) mẫu 15.,unknown,unclear,unclear,unclear,unclear,unclear,unclear,low,timed out
+calib_221,vinl2vis_23196,calib_221__vinl2vis_23196.png,supplemental_vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số secondary income, other sectors, payments (bop, current us$) mẫu 15.",line,yes,yes,yes,yes,yes,none,high,Bioungsichlai
+calib_222,vinl2vis_22876,calib_222__vinl2vis_22876.png,supplemental_vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số goods imports (bop, current us$) mẫu 15.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,low,timed out
+calib_226,vinl2vis_24876,calib_226__vinl2vis_24876.png,supplemental_vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, australia (current us$) mẫu 15.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,unknown,"{
+  ""human_visible_chart_family"": ""line"",
+  ""human_chart_family_acceptable"": ""yes"",
+  ""human_labels_readable"": ""yes"",
+  ""human_relevant_fields_visible"": ""yes"",
+  ""human_transform_preserved"": ""yes"",
+  ""human_overall_acceptable"": ""yes"",
+  ""human_primary_error"": ""none"",
+  ""human_confidence"": ""high"",
+  "
+calib_227,vinl2vis_30544,calib_227__vinl2vis_30544.png,supplemental_vlm_consensus_accepted,underspecified,vi,bar,Xếp hạng các nước theo chỉ số methane (ch4) emissions (total) excluding lulucf (% change from 1990).,bar,yes,yes,yes,yes,yes,none,high,The chart is a bar chart showing the total CH4 emissions (excluding LUC-FC) for each country.
+calib_232,vinl2vis_25196,calib_232__vinl2vis_25196.png,supplemental_vlm_consensus_accepted,ambiguous,vi,line,"Tạo biểu đồ phù hợp cho chỉ số net bilateral aid flows from dac donors, denmark (current us$) mẫu 15.",unknown,unclear,unclear,unclear,unclear,unclear,unclear,unknown,"{
+  ""human_visible_chart_family"": ""line"",
+  ""human_chart_family_acceptable"": ""yes"",
+  ""human_labels_readable"": ""yes"",
+  ""human_relevant_fields_visible"": ""yes"",
+  ""human_transform_preserved"": ""yes"",
+  ""human_overall_acceptable"": ""yes"",
+  ""human_primary_error"": ""none"",
+  ""human_confidence"": ""high"",
+  "
+calib_233,vinl2vis_25557,calib_233__vinl2vis_25557.png,supplemental_vlm_consensus_accepted,explicit,vi,bar,"So sánh chỉ số net bilateral aid flows from dac donors, korea, rep. (current us$) ở các quốc gia, biến thể 16.",bar,yes,yes,yes,yes,yes,none,high,Bán 16: So 16 quốc 16

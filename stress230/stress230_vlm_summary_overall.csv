@@ -1,0 +1,6 @@
+model,n,reject_pct,accept_pct,chart_family_match_pct,labels_match_pct,readable_pct
+qwen3-vl:4b,230,37.826,62.174,62.174,99.565,99.565
+qwen2.5vl:3b,230,3.043,96.957,96.957,100.0,100.0
+minicpm-v,230,3.913,96.087,98.696,43.913,96.087
+llava:7b,230,67.826,32.174,80.435,21.304,97.391
+moondream,230,2.609,97.391,43.913,89.13,97.391

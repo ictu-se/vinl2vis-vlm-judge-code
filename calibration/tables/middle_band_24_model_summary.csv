@@ -1,0 +1,12 @@
+model,n,accept_pct,reject_pct,unclear_pct,chart_family_yes_pct,labels_readable_yes_pct,fields_visible_yes_pct,transform_yes_or_na_pct,high_confidence_pct,decisive_pct,top_primary_errors
+qwen3-vl:8b,24,33.3,66.7,0.0,75.0,37.5,41.7,100.0,100.0,100.0,missing_labels:9; none:8; empty_or_broken:5
+qwen3-vl:4b,24,75.0,25.0,0.0,75.0,95.8,87.5,100.0,100.0,100.0,none:18; wrong_chart_type:3; empty_or_broken:2
+qwen2.5vl:3b,24,95.8,0.0,4.2,100.0,95.8,0.0,100.0,33.3,95.8,none:23; wrong_chart_type:1
+gemma3:4b,24,62.5,37.5,0.0,100.0,50.0,95.8,95.8,50.0,100.0,none:12; missing_labels:11; wrong_chart_type:1
+granite3.2,24,79.2,0.0,20.8,100.0,58.3,83.3,100.0,66.7,79.2,none:24
+minicpm-v,24,87.5,12.5,0.0,100.0,66.7,91.7,75.0,58.3,100.0,none:20; missing_transform:2; unclear:1
+llama3.2-vision,24,83.3,12.5,4.2,95.8,83.3,83.3,95.8,83.3,95.8,none:20; wrong_fields:3; unclear:1
+llava-llama3,24,100.0,0.0,0.0,100.0,25.0,100.0,70.8,41.7,100.0,empty_or_broken:19; none:4; unclear:1
+llava:7b,24,0.0,37.5,62.5,0.0,62.5,50.0,100.0,0.0,37.5,wrong_chart_type:11; unclear:11; wrong_fields:2
+bakllava,24,75.0,0.0,25.0,0.0,4.2,4.2,0.0,66.7,75.0,unclear:24
+deepseek-ocr,24,4.2,0.0,95.8,4.2,4.2,4.2,4.2,4.2,4.2,unclear:23; none:1
