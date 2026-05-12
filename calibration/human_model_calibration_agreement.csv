@@ -1,0 +1,8 @@
+model,n,overall_kappa,overall_agreement_pct,chart_family_kappa,chart_family_agreement_pct,labels_kappa,labels_agreement_pct,fields_kappa,fields_agreement_pct,transform_kappa,transform_agreement_pct
+openai_gpt_4o,240,0.103,56.7,-0.016,82.1,0.083,65.0,-0.019,65.8,-0.001,3.8
+openai_gpt_4o_mini,240,0.130,57.9,0.017,74.2,-0.073,57.5,-0.038,65.4,0.000,0.0
+qwen3_vl_4b,240,0.149,60.0,-0.103,72.1,0.057,67.5,-0.077,67.9,-0.016,45.0
+minicpm_v,240,0.012,54.2,0.000,82.9,-0.004,62.1,0.008,73.8,-0.006,6.2
+granite3_2_vision_latest,240,-0.031,46.2,-0.008,82.5,0.081,63.3,0.068,72.9,0.009,71.2
+qwen2_5vl_3b,240,-0.003,53.8,-0.008,82.5,0.013,67.1,0.003,1.2,0.002,1.7
+llava_7b,240,0.058,25.8,0.000,0.0,-0.020,62.1,-0.032,35.8,0.000,0.0
