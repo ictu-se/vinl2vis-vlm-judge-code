@@ -1,6 +1,0 @@
-annotator,n,overall_yes,overall_no,overall_missing,chart_family_yes,chart_family_no,chart_family_missing,labels_yes,labels_no,labels_missing,fields_yes,fields_no,fields_missing,transform_yes,transform_no,transform_missing,confidence_mean
-Human 1,240,115,125,0,216,24,0,181,59,0,200,40,0,213,27,0,4.325
-Human 2,240,101,139,0,215,25,0,182,58,0,198,42,0,207,33,0,4.408333333333333
-Human 3,240,123,117,0,206,34,0,161,79,0,184,56,0,209,31,0,4.429166666666666
-Human 4,240,111,129,0,224,16,0,191,49,0,198,42,0,205,35,0,4.4
-Human 5,240,101,139,0,210,30,0,166,74,0,182,58,0,203,37,0,4.3875
