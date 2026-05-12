@@ -7,7 +7,7 @@ The package studies vision-language models (VLMs) as bounded chart-faithfulness 
 ## Repository Layout
 
 - `scripts/`: scripts for VLM model annotation, stress-case screening, calibration package construction, and paper-asset generation.
-- `calibration/`: 160-case difficulty-normalized slice, 240-case annotation package metadata, the 240-case human annotation template, 24/72-case middle-band slices, and model-label CSV files.
+- `calibration/`: 160-case difficulty-normalized slice, 240-case annotation package metadata, five domain-expert annotation files, expert majority-vote labels, model--expert agreement summaries, 24/72-case middle-band slices, and model-label CSV files.
 - `stress230/`: 230-case stress-screening summaries and judgment details.
 - `reports/`: paper-facing evidence summaries exported from the experiments.
 - `docs/`: experiment protocol and planning notes.

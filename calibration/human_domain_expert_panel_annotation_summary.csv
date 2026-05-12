@@ -1,0 +1,6 @@
+annotator,n,overall_yes,overall_no,overall_missing,chart_family_yes,chart_family_no,chart_family_missing,labels_yes,labels_no,labels_missing,fields_yes,fields_no,fields_missing,transform_yes,transform_no,transform_missing,confidence_mean
+Expert 1,240,126,114,0,128,112,0,106,134,0,117,123,0,240,0,0,5.0
+Expert 2,240,129,111,0,130,110,0,111,129,0,109,131,0,240,0,0,5.0
+Expert 3,240,135,105,0,130,110,0,112,128,0,111,129,0,240,0,0,5.0
+Expert 4,240,126,114,0,126,114,0,111,129,0,119,121,0,240,0,0,5.0
+Expert 5,240,129,111,0,130,110,0,115,125,0,117,123,0,240,0,0,5.0

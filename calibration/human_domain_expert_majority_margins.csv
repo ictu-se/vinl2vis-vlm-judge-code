@@ -1,0 +1,6 @@
+criterion,majority_no,majority_yes,4-of-5,5-of-5,3-of-5
+overall,109.0,131,54.0,172,14.0
+chart_family,109.0,131,33.0,203,4.0
+labels,130.0,110,85.0,135,20.0
+fields,125.0,115,66.0,159,15.0
+transform,0.0,240,0.0,240,0.0
